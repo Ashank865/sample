@@ -1,0 +1,37 @@
+body
+{
+    background-image: linear-gradient(to right, red,orange);
+}
+span
+{
+  font-size: 30px;
+}
+#camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+#result_gesture_name 
+{
+  color: black;
+}
+.gesture_name
+{
+  font-size: 40px;
+}
+.heading{
+  font-size:18px;
+  border-radius:10px;
+  letter-spacing:10px;
+}
+
+label{
+  font-size: 14px;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color:aqua;
+}
+#info{
+    font-family: monospace;
+    color:yellow;
+}
